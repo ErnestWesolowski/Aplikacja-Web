@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplication4Context"
+    },
+    "postgresql1": {
+      "type": "postgresql",
+      "connectionId": "parametry",
+      "dynamicId": null
+    }
+  }
+}
